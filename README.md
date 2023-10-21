@@ -1,6 +1,6 @@
 # Robotics-and-Its-Applications
 
-The materials for the lesson Robotics and Its Applications.
+The materials for the lesson Robotics and Its Applications. The documents will be weekly updated.
 
 # Sources
 
