@@ -11,3 +11,5 @@ The materials for the lesson Robotics and Its Applications. The documents will b
 -[ROS services](http://wiki.ros.org/rosservice#rosservice_args)
 
 -[ROS service params](http://wiki.ros.org/ROS/Tutorials/UnderstandingServicesParams)
+
+-[ROS-Python executable names](http://docs.ros.org/en/kinetic/api/catkin/html/howto/format2/installing_python.html)
