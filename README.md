@@ -8,7 +8,9 @@ The materials for the lesson Robotics and Its Applications. The documents will b
 
 -[ROS topics](http://wiki.ros.org/ROS/Tutorials/UnderstandingTopics)
 
--[ROS services](http://wiki.ros.org/rosservice#rosservice_args)
+-[ROS services1](http://wiki.ros.org/rosservice#rosservice_args)
+
+-[ROS services2](http://wiki.ros.org/srv)
 
 -[ROS service params](http://wiki.ros.org/ROS/Tutorials/UnderstandingServicesParams)
 
