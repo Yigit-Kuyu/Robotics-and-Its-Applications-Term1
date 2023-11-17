@@ -1,0 +1,8 @@
+prefix=/home/yck/Desktop/Robotics_and_ItsApplications/Lesson5/FirstPackage_WS/devel
+
+Name: first_pack
+Description: Description of first_pack
+Version: 0.0.0
+Cflags: -I/home/yck/Desktop/Robotics_and_ItsApplications/Lesson5/FirstPackage_WS/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

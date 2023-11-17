@@ -1,0 +1,2 @@
+first_pack
+-DCATKIN_DEVEL_PREFIX=/home/yck/Desktop/Robotics_and_ItsApplications/Lesson5/FirstPackage_WS/devel -DCMAKE_INSTALL_PREFIX=/home/yck/Desktop/Robotics_and_ItsApplications/Lesson5/FirstPackage_WS/install -G Unix Makefiles

@@ -1,0 +1,6 @@
+# Inputs/Request
+int32 a
+int32 b
+---
+# Output/Response
+int32 result
