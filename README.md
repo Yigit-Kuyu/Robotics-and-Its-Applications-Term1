@@ -1,17 +1,17 @@
 # Robotics-and-Its-Applications
 
-The materials for the lesson Robotics and Its Applications. The documents will be weekly updated.
-
-**Note for Mid-term Exam:** The exam will be related to these 6-week slides and codes. The information found in this repo is enough for studying.
-
-
-**The project groups were announced: (All team members should be in the class on the presentation day)** 
+***The project groups were announced: (All team members should be in the class on the presentation day)*** 
 
 1) Presenter: Emir Faruk Sarı
 2) Presenter: Tuğbanur Kır
 3) Presenter: Sefa Demirdöğen
 4) Presenter: Buğra Kaan İçer
 5) Presenter: Omar Kattan
+
+
+**Note for Mid-term Exam:** The exam will be related to these 6-week slides and codes. The information found in this repo is enough for studying.
+
+The materials for the lesson Robotics and Its Applications. The documents will be weekly updated.
 
 
 # Sources
