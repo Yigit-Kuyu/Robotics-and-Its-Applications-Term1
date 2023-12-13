@@ -4,7 +4,7 @@
 
 1) Presenter: Emir Faruk Sarı
 2) Presenter: Tuğbanur Kır
-3) Presenter: Sefa Demirdöğen
+3) Presenter: Sefa Demirdöğen (Next Week)
 4) Presenter: Buğra Kaan İçer
 5) Presenter: Omar Kattan
 
