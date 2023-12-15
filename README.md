@@ -2,11 +2,11 @@
 
 ***The project groups were announced: (All team members should be in the class on the presentation day)*** 
 
-1) Presenter: Emir Faruk Sarı
-2) Presenter: Tuğbanur Kır
+1) Presenter: Emir Faruk Sarı (Done)
+2) Presenter: Tuğbanur Kır (Done)
 3) Presenter: Sefa Demirdöğen (Next Week)
-4) Presenter: Buğra Kaan İçer
-5) Presenter: Omar Kattan
+4) Presenter: Buğra Kaan İçer (Done)
+5) Presenter: Omar Kattan (Next Week)
 
 
 **Note for Mid-term Exam:** The exam will be related to these 6-week slides and codes. The information found in this repo is enough for studying.
