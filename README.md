@@ -5,10 +5,14 @@
 1) Presenter: Emir Faruk Sarı (Done)
 2) Presenter: Tuğbanur Kır (Done)
 3) Presenter: Buğra Kaan İçer (Done)
-4) Presenter: Sefa Demirdöğen 
-5) Presenter: Omar Kattan 
-6) Presenter: Muhammed Furkan Güler
-7) Presenter: Betül Bayram
+4) Presenter: Sefa Demirdöğen (Done) 
+5) Presenter: Omar Kattan (Done)
+6) Presenter: Betül Bayram (Done)
+7) Presenter: Muhammed Furkan Güler
+8) Presenter: Hani Alali
+9) Presenter: Ahmet Fatih Cengiz
+10) Presenter: Hüseyin Yekrek
+
 
 **Note for Mid-term Exam:** The exam will be related to these 6-week slides and codes. The information found in this repo is enough for studying.
 
