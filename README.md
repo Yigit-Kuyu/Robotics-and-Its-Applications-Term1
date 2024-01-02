@@ -12,6 +12,7 @@
 8) Presenter: Hani Alali (NotCome)
 9) Presenter: Ahmet Fatih Cengiz (Done)
 10) Presenter: Hüseyin Yekrek (NotCome)
+11) Ozan Erten
 
 
 **Note for Mid-term Exam:** The exam will be related to these 6-week slides and codes. The information found in this repo is enough for studying.
