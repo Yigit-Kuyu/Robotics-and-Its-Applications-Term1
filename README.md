@@ -1,5 +1,9 @@
 # Robotics-and-Its-Applications
 
+
+
+## The Mid-term Exam results have been announced, click [here](https://github.com/Yigit-Kuyu/Robotics-and-Its-Applications/blob/main/MidTermExamResults.pdf)
+
 ***The project groups were announced: (All team members should be in the class on the presentation day)*** 
 
 1) Presenter: Emir Faruk Sarı (Done)
