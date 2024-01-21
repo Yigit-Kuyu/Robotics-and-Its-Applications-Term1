@@ -3,7 +3,7 @@
 
 
 ## Final Exam results have been announced
-Including project grades ,for total results, please click [here](https://github.com/Yigit-Kuyu/Robotics-and-Its-Applications/blob/main/FinalExamResults.pdf)
+Including project grades, for total results, please click [here](https://github.com/Yigit-Kuyu/Robotics-and-Its-Applications/blob/main/FinalExamResults.pdf)
 
 ***The project groups were announced: (All team members should be in the class on the presentation day)*** 
 
