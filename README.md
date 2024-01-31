@@ -1,8 +1,9 @@
 # Robotics-and-Its-Applications
 
 
+## Makeup Exam results can be found [here](https://github.com/Yigit-Kuyu/Robotics-and-Its-Applications/blob/main/But.pdf)
 
-## Final Exam results have been announced
+### Final Exam results have been announced
 
 
 ***The project groups were announced: (All team members should be in the class on the presentation day)*** 
