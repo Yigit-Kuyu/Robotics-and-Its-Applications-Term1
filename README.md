@@ -7,17 +7,6 @@
 
 ***The project groups were announced: (All team members should be in the class on the presentation day)*** 
 
-1) Presenter: Emir Faruk Sarı (Done)
-2) Presenter: Tuğbanur Kır (Done)
-3) Presenter: Buğra Kaan İçer (Done)
-4) Presenter: Sefa Demirdöğen (Done) 
-5) Presenter: Omar Kattan (Done)
-6) Presenter: Betül Bayram (Done)
-7) Presenter: Muhammed Furkan Güler (Done)
-8) Presenter: Hani Alali (NotCome)
-9) Presenter: Ahmet Fatih Cengiz (Done)
-10) Presenter: Hüseyin Yekrek (NotCome)
-11) Presenter: Ozan Erten (NotCome)
 
 
 **Note for Mid-term Exam:** The exam will be related to these 6-week slides and codes. The information found in this repo is enough for studying.
